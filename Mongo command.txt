@@ -1,0 +1,40 @@
+Mongo command:-
+-----------------
+
+Read/Write user:-
+
+db.createUser({ user:"user_name",
+                pwd:"pass",
+                roles:[ { role:"readWrite",
+                          db:"<fbname>"
+                       } ],
+                mechanisms:[ "SCRAM-SHA-1","SCRAM-SHA-256"]
+             })
+
+
+
+Admin user:-
+
+db.createUser(
+{
+  user: "username",
+  pwd: "pass",
+  roles: [ "root" ]
+
+
+-------------------------
+
+> show dbs;
+
+> use <DB name>;
+
+> show collections;
+
+> db.<collection_name>.findOne()
+
+> db.<collection_name>.findMany()
+
+
+mongodb://mytaskeasydb:*****@168.61.158.30:27017/task_easy?serverSelectionTimeoutMS=4000&connectTimeoutMS=6000&authSource=admin&authMechanism=SCRAM-SHA-1
+
+mongodb://dbmongo:*****@172.20.0.4:27017/?serverSelectionTimeoutMS=4000&connectTimeoutMS=6000&authSource=admin&authMechanism=SCRAM-SHA-1

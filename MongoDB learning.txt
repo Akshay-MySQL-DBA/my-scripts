@@ -1,0 +1,24 @@
+MongoDB learning 
+-----------------------
+1) Create Atals cluster
+2) connect to Atlas cluster
+3) Dump sample data into cluster
+4) Documents == Rows
+   collections == tables
+   database == Schema
+5) db.InsertOne()
+   db.InsertMany()
+   db.FindOne()
+   db.FindMany()
+
+6)db.updateOne()
+   upsert : true
+   $set
+   $push
+
+7) findAndModify()
+8) deleteOne()
+   deleteMany()
+
+9)
+

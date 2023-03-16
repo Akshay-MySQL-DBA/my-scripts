@@ -1,0 +1,27 @@
+Buzz :- Push Notification serivce
+Lumen :- chatbot 
+Nexus :- redirecting from chat to other place like redirecting to customer care.
+
+
+
+Denver :- Dev
+Tempa  :- QA
+Austin :- Prod
+
+
+CTL
+Northstar
+
+
+teststar108@northstar.
+
+teststar108@northstar.straviso.net
+Straviso@123
+https://nstampa.straviso.net/
+
+
+
+
+A       B
+B       C
+D       A

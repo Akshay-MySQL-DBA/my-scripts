@@ -1,0 +1,31 @@
+UN: adminstraviso2
+Pass : TsAdmin2018@!
+OS Username : adminstraviso
+OS Password : TsAdmin2018@!
+TsAdmin2021@!
+TsAdmin2022@!
+
+
+Replication user :
+UN : repl
+PW : Re5l@Ve
+user : dbadmin
+pass: Db@d5!m
+User : dbbackup
+Pass : A@dmn1Usr
+Readonly user :
+User : northstar_ro
+Pass : Rn0th22stAronLy
+
+
+
+TsAdmin2022@!
+TsAdmin2021@!
+TsAdmin2018@!
+
+
+TsAdmin2021@!
+
+
+Db@d5!m
+mys3cret&&
